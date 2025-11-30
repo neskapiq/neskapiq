@@ -19,7 +19,7 @@
 
 ## 📊〃Stats
 
-![bloxet's GitHub stats](https://github-readme-stats.vercel.app/api?username=neskapiq&show_icons=true&theme=gruvbox)
+![neskapiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=neskapiq&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neskapiq&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neskapiq&theme=gruvbox)
 
